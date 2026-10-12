@@ -1,3 +1,3 @@
 def add(a, b):
     return a + b
-# CI test commit
+# Demonstrating automatic CI triggering
